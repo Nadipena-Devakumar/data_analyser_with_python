@@ -2,7 +2,7 @@ import pandas as pd
 
 
 def answer_the_questions(print_data=True):
-    data = pd.read_csv('/Users/NA20359743/Desktop/adult.data.csv')
+    data = pd.read_csv('adult.data.csv')
 
     # 1  How many people of each race are represented in this dataset?
 
